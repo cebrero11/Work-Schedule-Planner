@@ -38,7 +38,13 @@ N/A
 ## Contributing 
  
 N/A 
- 
+
+## Credits 
+[Live View of Work Schedule Planner](https://cebrero11.github.io/Work-Schedule-Planner/)
+<img width="1404" alt="Screenshot 2023-04-06 at 4 01 05 PM" src="https://user-images.githubusercontent.com/43153891/230509061-159e33cb-d726-41f1-8731-bafc24dbc693.png">
+<img width="1423" alt="Screenshot 2023-04-06 at 4 01 26 PM" src="https://user-images.githubusercontent.com/43153891/230509075-13c501b4-9569-45dc-ad35-3e0835bf9c01.png">
+
+
 ## License 
 
   This application has [Boost Software License 1.0](https://choosealicense.com/licenses/Boost_Software_License_1.0) Lincense. 
